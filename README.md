@@ -23,23 +23,65 @@
 
   <strong>```Install```</strong> Python 3.10
   
-  For Windows, <a href="https://www.python.org/downloads/" target="_self">Download Link</a>
+  For Windows, <a href="https://www.python.org/downloads/" target="_blank">Download Link</a>
   
 ```
-  $ sh booked-scheduler-installation.sh
+ | Double click to setup and install Python
+```
+
+ For Linux,
+  
+```
+ $ sudo apt install python3
+```
+
+### STEP 2:
+
+  <strong>```Install```</strong> Browser automation <strong>```Selenium```</strong>
+  
+  For Windows, <strong>```Goto```</strong> Command Prompt
+  
+```
+ > pip install selenium
+```
+
+ For Linux,
+  
+```
+ $ pip3 install selenium
+```
+
+### STEP 2:
+
+  <strong>```Clone```</strong> Script
+  
+  For Windows,
+  
+```
+ > git clone https://github.com/Ranjith1022/Download_Insta_Images.git
+```
+
+ For Linux,
+  
+```
+ $ git clone https://github.com/Ranjith1022/Download_Insta_Images.git
 ```
 
 ### Finally:
 
 
-  <strong>```check```</strong> below URL
+  <strong>```Goto```</strong> File location and <strong>```RUN```</strong> Python File
+  
+ For Windows,
   
 ```
-  http://book-schedule.com
+ > python file_name.py
+```
 
-  OR 
+ For Linux,
   
-  http://<your-ip>
+```
+ $ python3 file_name.py
 ```
 
 
