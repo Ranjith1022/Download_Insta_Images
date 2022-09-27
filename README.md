@@ -14,7 +14,7 @@
 
 1. Python3.*
 
-2. Chrome browser
+2. Chrome Browser
 
  
 ## Installation:
