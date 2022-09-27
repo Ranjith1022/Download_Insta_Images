@@ -23,7 +23,7 @@
 
   <strong>```Install```</strong> Python 3.10
   
-  For Windows, <a href="https://www.python.org/downloads/" target= "_blank">Download Link</a>
+  For Windows, <a href="https://www.python.org/downloads/" target="_blank">Download Link</a>
   
 ```
   $ sh booked-scheduler-installation.sh
