@@ -8,7 +8,7 @@
 
 ## Introduction: 
 
-  Instagram image download service allows downloading images from Instagram online. It is a simple downloader that works perfectly with Python programming. Using it you can save free download images from Instagram in high quality.
+  Instagram image download service allows downloading images from Instagram. It is a simple downloader that works perfectly with Python programming. Using it you can save free download images from Instagram in high quality.
 
 ## Pre Requisites
 
