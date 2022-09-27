@@ -7,7 +7,7 @@ now = datetime.now()
 # Define Chrome Driver
 browser = webdriver.Chrome("chromedriver")
 browser.implicitly_wait(1)
-notify = input("Goto Edit this python file give multi link as links variable")
+notify = input("Goto Edit this python file give multi link as in links variable")
 links = [] # Insert your download link Example: ['https://www.instagram.com/image_path','https://www.instagram.com/image_path']
 for i in range(0, len(links)):    
     browser.get(links[i])
