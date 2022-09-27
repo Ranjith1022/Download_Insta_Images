@@ -51,17 +51,17 @@
  $ pip3 install selenium
 ```
 
-### STEP 2:
+### STEP 3:
 
   <strong>```Clone```</strong> Script
   
-  For Windows,
+  For Windows, <strong>```Goto```</strong> Command Prompt
   
 ```
  > git clone https://github.com/Ranjith1022/Download_Insta_Images.git
 ```
 
- For Linux,
+ For Linux, <strong>```Goto```</strong> Terminal
   
 ```
  $ git clone https://github.com/Ranjith1022/Download_Insta_Images.git
@@ -72,13 +72,13 @@
 
   <strong>```Goto```</strong> File location and <strong>```RUN```</strong> Python File
   
- For Windows,
+ For Windows, <strong>```Goto```</strong> Command Prompt
   
 ```
  > python file_name.py
 ```
 
- For Linux,
+ For Linux, <strong>```Goto```</strong> Terminal
   
 ```
  $ python3 file_name.py
