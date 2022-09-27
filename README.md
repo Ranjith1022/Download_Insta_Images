@@ -21,9 +21,9 @@
   
 ### STEP 1:
 
-  <strong>```Install```</strong> Python 3.10
+  <strong>```Install```</strong> Python 3.10.7
   
-  For Windows, <a href="https://www.python.org/downloads/" target="_blank">Download Link</a>
+  For Windows, <a href="[https://www.python.org/downloads/](https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe)" target="_blank">Download Link</a>
   
 ```
  | Double click to setup and install Python
