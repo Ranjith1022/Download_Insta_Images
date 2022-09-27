@@ -45,7 +45,7 @@
  > pip install selenium
 ```
 
- For Linux,
+ For Linux, <strong>```Goto```</strong> Terminal
   
 ```
  $ pip3 install selenium
